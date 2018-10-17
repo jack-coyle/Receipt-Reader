@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "receipt-reader-219421",
+  "private_key_id": "13f60700a9c3d96cdc6b0f2f91d8ba14873a3e04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0wWLAtfECH2NG\njrr2Q9f6CQQiPOABxRXsvoO6TRRZY3z4mIGeEUkOSCxqIRrbNcygTOjU2Glgzp8o\ndnBgCUv1KuzNlU0ayl+7+92w0Uea5VDDOb/Hh4mL5bSdnGHCkq6jkL0vehLeMd88\ncZtBGF4iv4d4I/jxroT/BWi0DB40VECiIQKrBT8ocHLPJ1ST+F9W3Fcv0v0A3ZwS\nSRuC2fHxNBYsPvJkFtuEB7/Axt78ym1kZrNNtrlh42XZwJM/E6tmTEr4IHorRArD\nWlA8yYgRx8o5Kr9QDaZUjsTenT5DPNTZXKnzSGdh9Zm0OvdmiuFadNFspPiwLtjH\nhIptVEGNAgMBAAECggEABzg+MzJRM7jV5J3o1n3z5Mxyuidc+dUfFhCvVEP7OcLL\n3WYXWfKYzMA8kz9Kl6eOH8z9SRsdF70eWvsNbAM9txzazoSrIBR7Pxfv9+hess98\nAAA7f8MTJF+tbNTajBoDGGIR8bvaKxPU4HuCgawb08l7ULonGbLTJG3ZNm/ReQeJ\n6tz0WpqL7kYoo2+RtaAF/nFZuc8AAwbIOllR+kIM/Ckvld2wMT5b2Yu3/X9D57/x\ngP8+Pw9v5ThIuL0tyMHL3GoeMzX+KJQVcPHYWmnPC1k7l9azBsj/gWYNBpNU+bxQ\npVNisiZzVpPsg5ZCOfPn8dLy3KtYb/5o6WHjXzP3QQKBgQDmHCKx5/eyTTQ2sajC\ndRnGPl0Pn4cWgr8REVVjTm4Xa8jRgGW7FexkAxy7yCjFXAPXku9DB+L1/9rBfOO/\nqbhgWZ4i+5bdtoJ3oPnZxbQ6dIJ0Z2Qwecw4Lu14x2wrSW3V5i3nPff7ROuU6Pmc\npIIXCCn0FX2lMY1/XjJDDtbq0QKBgQDJF7DfIeSmwe4BegXPUpCokTXRR2Y5rsb1\nCRSthVyjgYXk0zvjNOFe5pJC3bsjmhM7uGwzYXgyaoZIyjWbjVAmKNC3W3rGa5rQ\nBsUhx7/6u3aIZ/aW6B4QhDXoPmfqvfYDIAkr+7az7SAk/ANWPRUnxs/NLRSi8Bb5\nyUekl+Vh/QKBgDwWErUz5kkHwd+aSn/khgNvG2vN8z9cirnRNePFghfZjEmwZmAQ\n3HZNHb6nCIZofZRYCOQO9iPYWG33x5yvm7aFEDcATSe91ZmZTkSgTGyLKdltegry\ncvIkxtun70XqWaTmAwyD8PIK0B1FLJDLoDCVcCcNSY7OPq2IkkVSZapRAoGAIXhL\n/BeMEyVcE+rXZLZ9VVE1/+s+XIN2ofos8uSrkptQSdHOufZnPIBr/60gJMDUSrBb\ncgHbG6kXSK4/VfCjUnagpqQXP0dRsSYvUXwJvBXPmMyVAnEH7//RaSJZ8XxEoiiG\n3kc7FZ92JjG77HKmPsScea3zLVuAt3qE7iRKDZECgYEAj+A5LfgoVcp3QezwAjuK\nr8nIy+0n+RBVNFrbfyN0OwCDjq5zkqMgcF53MhCwTeZclzuduErtTlNkwmG+FOKT\nZ1Iba3y+ZMc4PsEyj5tN1QB//no/MAD8ETvBkAmbddqcteg204jYNkixCB0on7Ts\ncUAObhpEYs8xVn8DyXsHbMY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jack-881@receipt-reader-219421.iam.gserviceaccount.com",
+  "client_id": "104085446801338769018",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jack-881%40receipt-reader-219421.iam.gserviceaccount.com"
+}
